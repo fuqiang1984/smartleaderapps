@@ -1,0 +1,49 @@
+#header{
+  height: 60px;
+  background-image: url(images/tdp-header-dark.png);
+  border-radius: 10px;
+  overflow:hidden;
+  line-height: 60px;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  color: #fff;
+  font-weight: 100;
+}
+
+#header a{
+  color: #666666;
+}
+#header div{
+  height: 60px;
+  float: left;
+}
+#header #dark{
+  background-image: url(images/tdp-header-dark.png);
+  padding: 0 10px;
+}
+#header #between{
+  background-image: url(images/tdp-header-button.png);
+  width: 41px;
+}
+#header #companyname {
+  font-size: 25px;
+}
+#header #companyname #companynameheading{
+  line-height: 40px;
+  height: 40px;
+}
+#header #chooseteam{
+  float: right;
+  line-height: 20px;
+  margin-top: 10px;
+  height: 40px;
+}
+#header #chooseteam a{
+  font-weight: 700;
+}
+
+
+#header .dashboardheading{
+  font-size: 25px;
+    font-weight: 700;
+}
